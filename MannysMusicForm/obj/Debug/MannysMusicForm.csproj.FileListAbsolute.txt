@@ -1,0 +1,10 @@
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\bin\Debug\MannysMusicForm.exe.config
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\bin\Debug\MannysMusicForm.exe
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\bin\Debug\MannysMusicForm.pdb
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.csproj.AssemblyReference.cache
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.MainFrm.resources
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.Properties.Resources.resources
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.csproj.GenerateResource.cache
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.csproj.CoreCompileInputs.cache
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.exe
+C:\Users\davidbadrak\Desktop\College\Intro to C#\Module4 - IF\Part B\Module4Assignment\MannysMusicForm\obj\Debug\MannysMusicForm.pdb
